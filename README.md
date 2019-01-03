@@ -1,0 +1,1 @@
+# cordova-domular-notifier
